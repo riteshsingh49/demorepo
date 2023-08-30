@@ -1,3 +1,4 @@
 # demorepo
 this is my first  repository
-Author--- Ritesh Singh
+<br>
+<b>Author--- Ritesh Singh</b>
